@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor | Single Price Grid Component](https://zylcom.github.io/single-price-grid-component/)
 
 ## My process
 
