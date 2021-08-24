@@ -28,6 +28,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/single-price-grid-component-use-css-grid-iG8GFuTX2)
 - Live Site URL: [Frontend Mentor | Single Price Grid Component](https://zylcom.github.io/single-price-grid-component/)
 
 ## My process
@@ -35,6 +36,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
+- CSS custom properties
 - Flexbox
 - CSS Grid
 
