@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution](https://www.frontendmentor.io/solutions/single-price-grid-component-use-css-grid-iG8GFuTX2)
-- Live Site URL: [Frontend Mentor | Single Price Grid Component](https://zylcom.github.io/single-price-grid-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-use-css-grid-iG8GFuTX2](https://www.frontendmentor.io/solutions/single-price-grid-component-use-css-grid-iG8GFuTX2)
+- Live Site URL: [https://zylcom.github.io/single-price-grid-component/](https://zylcom.github.io/single-price-grid-component/)
 
 ## My process
 
