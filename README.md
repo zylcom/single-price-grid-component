@@ -24,7 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://user-images.githubusercontent.com/67725925/130435257-ecabcf68-db92-4302-b734-9d1f9a2f4e15.png)
+- Desktop
+
+  ![desktop](https://user-images.githubusercontent.com/67725925/138849874-7fe47dff-2a3e-405a-979d-255ecd814d31.png)
+
+- Mobile
+
+  ![mobile](https://user-images.githubusercontent.com/67725925/138849886-d0c73f4d-8029-4c0b-b265-c1c94ecf360d.png)
 
 ### Links
 
